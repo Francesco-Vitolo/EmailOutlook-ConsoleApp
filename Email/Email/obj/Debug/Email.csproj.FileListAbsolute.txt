@@ -1,0 +1,7 @@
+C:\Users\Francesco\Desktop\VisualStudioNeueProjekte\Email\Email\bin\Debug\Email.exe.config
+C:\Users\Francesco\Desktop\VisualStudioNeueProjekte\Email\Email\bin\Debug\Email.exe
+C:\Users\Francesco\Desktop\VisualStudioNeueProjekte\Email\Email\bin\Debug\Email.pdb
+C:\Users\Francesco\Desktop\VisualStudioNeueProjekte\Email\Email\obj\Debug\Email.csproj.AssemblyReference.cache
+C:\Users\Francesco\Desktop\VisualStudioNeueProjekte\Email\Email\obj\Debug\Email.csproj.CoreCompileInputs.cache
+C:\Users\Francesco\Desktop\VisualStudioNeueProjekte\Email\Email\obj\Debug\Email.exe
+C:\Users\Francesco\Desktop\VisualStudioNeueProjekte\Email\Email\obj\Debug\Email.pdb
